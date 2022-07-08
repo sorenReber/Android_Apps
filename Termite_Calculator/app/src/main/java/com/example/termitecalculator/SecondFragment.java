@@ -11,6 +11,10 @@ import androidx.navigation.fragment.NavHostFragment;
 
 import com.example.termitecalculator.databinding.FragmentSecondBinding;
 
+/*
+Currently this second fragment is not functional. I couldn't think of logical way
+of adding it in unless it was unrelated to the app's purpose.
+ */
 public class SecondFragment extends Fragment {
 
     private FragmentSecondBinding binding;
