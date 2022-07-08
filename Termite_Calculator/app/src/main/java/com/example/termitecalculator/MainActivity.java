@@ -61,6 +61,7 @@ public class MainActivity extends AppCompatActivity {
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
+            // Currently does nothing, can't think of anything for it to do, left it in for now.
             return true;
         }
 
