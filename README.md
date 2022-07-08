@@ -2,7 +2,7 @@
 
 There are currently two simple apps in this repository. One is a continuation of a Java number guessing game as I was following the tutorial and it covered creating an app. The other app is a calculator used when determining how much product to apply for termites. Simply input the measured linear feet and it will calculate how much finished product in gallons and how many fluid ounces of concentrated product to use when making the finished product.
 
-I created this app because when I'm treating a home for termites I have to type in the whole formula and it's the same every time, just the linear feet is different. So I figured I could automate that process and only have one variable to input.
+I created this app because when I'm treating a home for termites I have to type in the whole formula and it's the same every time, only the linear feet is different. So I figured I could automate that process and only have one variable to input.
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
 
@@ -24,5 +24,5 @@ I created this app because when I'm treating a home for termites I have to type 
 # Future Work
 
 * Add more app projects. I'm not very creative when it comes to projects, even more so with apps it seems.
-* Turn a C++ project into an app, most likely one of the other games I created. Of course, first I will need to learn how.
-* Item 3
+* Turn a C++ project into an app, most likely the pong game I created. Of course, first I will need to learn how.
+* I would like to go more into the layout/design of the app, make it look more appealing and professional. Currently the app is functional and I only experimented a little with changing some of the design colors so it didn't look so plain.
